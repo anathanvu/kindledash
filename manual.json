@@ -1,0 +1,5 @@
+{
+  "_ghi_chu": "Điền số vào đây nếu muốn GHI ĐÈ giá tự động (xoá dấu gạch dưới ở tên khoá để bật). Đơn vị: vàng = triệu đồng/lượng, xăng = đồng/lít.",
+  "_gold": {"buy": 144.1, "sell": 147.1},
+  "_fuel": {"RON 95-III": 24330, "E5 RON 92": 23330}
+}
