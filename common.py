@@ -10,7 +10,7 @@ PHOTO_W = 392
 INFO_X, INFO_W = PHOTO_W, W - PHOTO_W      # cột thông tin 408px
 CLOCK_RECT = (INFO_X + 27, -4, 354, 122)    # x, y, w, h (toạ độ ngang)
 BATT_RECT = (W - 8 - 166, 562, 166, 38)
-BRAND = "VŨ HOME BOARD"                    # tên dashboard
+BRAND = "WORK HARD, PLAY HARD"             # dòng chữ ký trên dashboard
 OWNER = "AnathanVu"
 
 # "cw" = cạnh nút nguồn/USB nằm bên PHẢI khi đặt ngang; "ccw" = bên TRÁI
