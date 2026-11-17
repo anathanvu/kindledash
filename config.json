@@ -2,9 +2,8 @@
   "city": "Hà Nội",
   "lat": 21.0285,
   "lon": 105.8542,
-  "gold_label": "VÀNG SJC",
   "fuel_show": [
-    {"match": "RON 95-III", "label": "RON 95-III"},
-    {"match": "E5 RON 92",  "label": "E5 RON 92"}
+    {"match": ["E10 RON 95 mức 3", "RON 95-III", "RON 95"], "label": "E10 RON 95"},
+    {"match": ["E5 RON 92"], "label": "E5 RON 92"}
   ]
 }
